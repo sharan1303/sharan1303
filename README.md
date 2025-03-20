@@ -24,26 +24,53 @@ Welcome to my GitHub profile! I'm a **Software dev based in London, UK**, specia
 ```
 -->
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 Here are the tools and technologies I work with:
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
 
-### **Gen AI & ML Frameworks**
-OpenAI, LangChain, LangGraph, Vercel AI SDK, AutoGen, Hugging Face, NVIDIA NIM, Azure AI SDK, Azure AI Foundry, PyTorch, Tensorflow, NLTK
+### **AI/LLM Frameworks**
+- OpenAI SDK
+- LangChain
+- LangGraph
+- Vercel AI SDK
+- AutoGen
+- Hugging Face
+- NVIDIA NIM
+- Azure AI SDK
+- Azure AI Foundry
+
+### **Databases & Vector Stores**
+- Chroma
+- pgvector
+
+### **Machine Learning, Computer Vision & NLP**
+- PyTorch
+- TensorFlow
+- OpenCV
+- NLTK
+
 
 ### **Web Development**
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
 
-### **Cloud & Deployment**
+### **Cloud, Deployment and Other tools**
+![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
+![Haskell](https://skillicons.dev/icons?i=haskell)
+![Notion](https://skillicons.dev/icons?i=notion)
+![Figma](https://skillicons.dev/icons?i=figma)
+![latex](https://skillicons.dev/icons?i=latex)
 
 
 
@@ -81,7 +108,7 @@ Here are some of the projects I'm most proud of:
 
 ## 🤝 Volunteering
 I enjoy giving back to the community by introducing young children to AI fundamentals:
-- **CoderDojo Mentor**: Teaching kids under 10 about machine learning using Scratch [LinkedIn Post](https://www.linkedin.com/posts/sharan-umavassee_ai-scratch-activity-7259172549115154432-UWzs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3VoxEBrJ1_Etlo4YU3x07VHj3fio1Ks7U).
+**CoderDojo Mentor**: Teaching kids under 10 about machine learning using Scratch [LinkedIn Post](https://www.linkedin.com/posts/sharan-umavassee_ai-scratch-activity-7259172549115154432-UWzs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3VoxEBrJ1_Etlo4YU3x07VHj3fio1Ks7U).
 
 
 
