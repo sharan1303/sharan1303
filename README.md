@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Software dev based in London, UK**, specia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-umavassee/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@um_sharan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/um_sharan)
+<a href="https://twitter.com/um_sharan" target="blank"><img src="https://img.shields.io/twitter/follow/um_sharan?logo=twitter&style=for-the-badge" alt="um_sharan" />
 
 
 ## 🌟 About Me
@@ -49,6 +49,7 @@ Here are the tools and technologies I work with:
 ### **Machine Learning, Computer Vision & NLP**
 - PyTorch
 - TensorFlow
+- SciPy
 - OpenCV
 - NLTK
 
@@ -57,6 +58,7 @@ Here are the tools and technologies I work with:
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
@@ -81,17 +83,17 @@ Here are some of the projects I'm most proud of:
    An AI-powered RAG (Retrieval-Augmented Generation) solution for secure document analysis.\
    *Technologies*: Azure AI SDK, Python, Azure AI Search
 
-3. [**Agentic Modular Chat Application for Academic Studies**](https://github.com/sharan1303/study-chat-app)  
-   A chat app with modular classification and source filtering for academic use.\
+2. [**Chat Application for Academic Studies**](https://study-chat-app.vercel.app)\
+   A chat app with RAG, memory, web search, source filtering and modular classification -> [Repo](https://github.com/sharan1303/study-chat-app)\
    *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
 
 4. [**Distributed AI Agents for Creative Writing**](#)  
    A modular platform enabling creative writing with human-in-the-loop interactions.\
    *Technologies*: Python, LangGraph
 
-5. [**Raspberry Pi Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
-   A low-cost navigation system for robots using computer vision techniques.  
-   *Technologies*: Python, OpenCV
+5. [**Embedded Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
+   A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
+   *Technologies*: Python, OpenCV, Raspberry Pi
 
 
 
@@ -110,7 +112,7 @@ Here are some of the projects I'm most proud of:
 
 ## 🤝 Volunteering
 I enjoy giving back to the community by introducing young children to AI fundamentals:
-**CoderDojo Mentor**: Teaching kids under 10 about machine learning using Scratch [LinkedIn Post](https://www.linkedin.com/posts/sharan-umavassee_ai-scratch-activity-7259172549115154432-UWzs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3VoxEBrJ1_Etlo4YU3x07VHj3fio1Ks7U).
+**CoderDojo Mentor**: Teaching kids under 10 about machine learning using Scratch -> [LinkedIn Post](https://www.linkedin.com/posts/sharan-umavassee_ai-scratch-activity-7259172549115154432-UWzs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3VoxEBrJ1_Etlo4YU3x07VHj3fio1Ks7U).
 
 
 
