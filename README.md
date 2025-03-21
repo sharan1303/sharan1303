@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a **Software dev based in London, UK**, specia
 
 
 ## 🌟 About Me
-- 💼 **Current Role**: Technology Consultant @ EY  
+- 💼 **Current Role**: Technology Consultant @ *EY*  
   Working on cutting-edge AI solutions, including multi-agent systems, RAG-enabled knowledge bases, and scalable automation workflows.
-- 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton  
-  *Focus*: Artificial Intelligence, including Machine Learning, Computer Vision, and Natural Language Processing  
-  *Thesis*: Low-cost computer vision navigation system for robots
-- 🌱 **Learning**: Fullstack product development and system design
-- 🌍 **Languages**: Fluent in English, French, and Creole.
+- 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton \
+  *Focus*: Artificial Intelligence, including Machine Learning, Computer Vision, and Natural Language Processing
+- 👾🥊 **Hobbies**: Alongside being a nerd, playing videogames, I also practise martial arts to balance things out, mainly Muay Thai and BJJ
+- 🌱 **Current Learning**: Fullstack product development and system design, learning how *architecture* works
+- 🌍 **Spoken Languages**: Fluent in English, French, and Creole.
 
 <!-- ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -99,11 +99,13 @@ Here are some of the projects I'm most proud of:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharan1303&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharan1303&layout=compact&theme=radical)
 
+`Note: I have recently started building my personal side projects`
+
+
 
 
 ## 🏆 Achievements & Awards
 🏅 Won the Atkins Placement Challenge for designing an interactive tool supporting circular economy initiatives.
-
 
 
 ## 🤝 Volunteering
