@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Sharan Umavassee!
 
-Welcome to my GitHub profile! I'm a **Software dev based in London, UK**, specialised in building AI-driven solutions.
+I'm a **Software dev based in London, UK**, specialised in building AI-driven solutions. Welcome to my GitHub profile! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-umavassee/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
 <a href="https://twitter.com/um_sharan" target="blank"><img src="https://img.shields.io/twitter/follow/um_sharan?logo=twitter&style=for-the-badge" alt="um_sharan" />
 
 
-## 🌟 About Me
-- 💼 **Current Role**: Technology Consultant @ *EY*  
+## 👾 About Me
+- 💼🧑🏾‍💻 **Current Role**: Technology Consultant @ *EY*  
   Working on cutting-edge AI solutions, including multi-agent systems, RAG-enabled knowledge bases, and scalable automation workflows.
 - 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton \
   *Focus*: Artificial Intelligence, including Machine Learning, Computer Vision, and Natural Language Processing
@@ -31,7 +31,18 @@ Here are the tools and technologies I work with:
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### **AI/LLM Frameworks**
+### **Web**
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
+
+
+### **AI Frameworks**
 - OpenAI SDK
 - LangChain
 - LangGraph
@@ -53,17 +64,6 @@ Here are the tools and technologies I work with:
 - OpenCV
 - NLTK
 
-
-### **Web Development**
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
-
 ### **Cloud, Deployment and Other tools**
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -79,19 +79,19 @@ Here are the tools and technologies I work with:
 ## 🚀 Featured Projects
 Here are some of the projects I'm most proud of:
 
-1. [**EYQ Confidential Document Chat**](#)  
-   An AI-powered RAG (Retrieval-Augmented Generation) solution for secure document analysis.\
-   *Technologies*: Azure AI SDK, Python, Azure AI Search
-
-2. [**Chat Application for Academic Studies**](https://study-chat-app.vercel.app)\
-   A chat app with RAG, memory, web search, source filtering and modular classification -> [Repo](https://github.com/sharan1303/study-chat-app)\
+1. [**Chat Application for Academic Studies**](https://study-chat-app.vercel.app)\
+   A chat app with RAG, memory, web search, source filtering and modular classification -> [Open source Repo](https://github.com/sharan1303/study-chat-app)\
    *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
+
+2. [**EYQ Confidential Document Chat**](#)  
+   An AI-powered RAG (Retrieval-Augmented Generation) solution for secure document analysis.\
+   *Technologies*: Python, Azure AI SDK, Azure AI Search
 
 4. [**Distributed AI Agents for Creative Writing**](#)  
    A modular platform enabling creative writing with human-in-the-loop interactions.\
    *Technologies*: Python, LangGraph
 
-5. [**Embedded Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
+5. [**Low cost Embedded Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
    A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
    *Technologies*: Python, OpenCV, Raspberry Pi
 
@@ -107,7 +107,7 @@ Here are some of the projects I'm most proud of:
 
 
 ## 🏆 Achievements & Awards
-🏅 Won the Atkins Placement Challenge for designing an interactive tool supporting circular economy initiatives.
+🏅 Won the Atkins Placement Challenge for designing an interactive tool educating contractors how to effectively make use of 3D printing for aircraft parts supporting circular economy initiatives.
 
 
 ## 🤝 Volunteering
