@@ -79,8 +79,8 @@ Here are the tools and technologies I work with:
 ## 🚀 Featured Projects
 Here are some of the projects I'm most proud of:
 
-1. [**Chat Application for Academic Studies**](https://study-chat-app.vercel.app)\
-   A chat app with RAG, memory, web search, source filtering and modular classification -> [Open source Repo](https://github.com/sharan1303/study-chat-app)\
+1. [**Study Chat**](https://mystudy.chat)\
+   An AI chat app with RAG, memory, web search, source filtering and modular classification -> [Open source Repo](https://github.com/sharan1303/study-chat-app)\
    *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
 
 2. [**EYQ Confidential Document Chat**](#)  
