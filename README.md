@@ -9,7 +9,7 @@ I'm a **Software dev based in London, UK**, specialised in building AI-driven so
 
 ## 👾 About Me
 - 💼🧑🏾‍💻 **Current Role**: Technology Consultant @ *EY*  
-  Working on cutting-edge AI solutions, including multi-agent systems, RAG-enabled knowledge bases, and scalable automation workflows.
+  Working on cutting-edge AI solutions, including AI-centric products, multi-agent systems and RAG-enabled knowledge bases.
 - 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton \
   *Focus*: Artificial Intelligence, including Machine Learning, Computer Vision, and Natural Language Processing
 - 👾🥊 **Hobbies**: Alongside being a nerd, playing videogames, I also practise martial arts to balance things out, mainly Muay Thai and BJJ
@@ -31,15 +31,13 @@ Here are the tools and technologies I work with:
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### **Web**
+### **Web Frameworks**
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
 
 
 ### **AI Frameworks**
@@ -53,7 +51,11 @@ Here are the tools and technologies I work with:
 - Azure AI SDK
 - Azure AI Foundry
 
-### **Databases & Vector Stores**
+### **Databases**
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![SQL](https://skillicons.dev/icons?i=postgresql,mongodb)
+
+### **Vector Stores**
 - Chroma
 - pgvector
 
@@ -76,14 +78,15 @@ Here are the tools and technologies I work with:
 
 
 
+
 ## 🚀 Featured Projects
 Here are some of the projects I'm most proud of:
 
 1. [**Study Chat**](https://mystudy.chat)\
-   An AI chat app with RAG, memory, web search, source filtering and modular classification -> [Open source Repo](https://github.com/sharan1303/study-chat-app)\
-   *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
+   Personalised AI chat app for context configuration with RAG, memory, web search, source filtering and modular classification\
+   [Open source Repo](https://github.com/sharan1303/study-chat-app) --> *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
 
-2. [**EYQ Confidential Document Chat**](#)  
+3. [**EYQ Confidential Document Chat**](#)  
    An AI-powered RAG (Retrieval-Augmented Generation) solution for secure document analysis.\
    *Technologies*: Python, Azure AI SDK, Azure AI Search
 
@@ -92,7 +95,7 @@ Here are some of the projects I'm most proud of:
    *Technologies*: Python, LangGraph
 
 5. [**Low cost Embedded Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
-   A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
+   BSc Thesis: A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
    *Technologies*: Python, OpenCV, Raspberry Pi
 
 
