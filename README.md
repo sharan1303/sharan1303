@@ -2,25 +2,23 @@
 
 I'm a **Fullstack Software developer based in London, UK**, specialised in building AI-driven solutions. Welcome to my GitHub profile! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-umavassee/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
-<a href="https://twitter.com/um_sharan" target="blank"><img src="https://img.shields.io/twitter/follow/um_sharan?logo=twitter&style=for-the-badge" alt="um_sharan" />
-
+[![Email](https://img.shields.io/badge/sharan.umavassee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
+<a href="https://www.linkedin.com/in/sharan-umavassee/"><img src="https://custom-icon-badges.demolab.com/badge/sharan%20umavassee-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
+<a href="https://twitter.com/um_sharan"><img src="https://img.shields.io/badge/um_sharan-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white"></a>
 
 ## 👾 About Me
-- 💼🧑🏾‍💻 **Current Role**: Senior Technology Consultant @ *EY*  
-  `Working on AI-centric products, multi-agent systems and RAG-enabled knowledge bases.`
+- 💼🧑🏾‍💻 I work as a Senior Technology Consultant / Software Engineer @ *EY* \
+  `Working on AI-centric products, multi-agent systems and RAG knowledge bases.`
   
 - 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton \
-  *Focus*: `Artificial Intelligence, including Machine Learning, Computer Vision, and Natural Language Processing`
+  *Focusing on Artificial Intelligence*: `including Machine Learning, Computer Vision and Natural Language Processing`
   
-- 🌍 **Spoken Languages**: Fluent in English, French, and Creole.
+- 🌍 I speak English, French and Mauritian Creole.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on Study Chat!
-- Developing PrivacySearch, opensource search engine with local LLM.
+- Working on fast paced prototyping for AI applications for enterprise to test theories
 - Learning system design and product taste.
 - I train in Muay Thai when my screen time is down.
 ```
@@ -88,15 +86,19 @@ Here are the tools and technologies I work with:
 ## 🚀 Featured Projects
 Here are some of the projects I'm most proud of:
 
-1. [**Study Chat**](https://mystudy.chat)\
+1. [**Volt**](https://ey-hackathon-production.up.railway.app/)\
+   Finance AI Agent fed pricing and supply chain data that responds with relevant numerical/financial context through intelligent tool calling to query in-browser database\
+   [Open source Repo](https://github.com/sharan1303/ey-hackathon) --> *Technologies*: TypeScript, Next.js, Mastra AI Framework, Ant Design X, GPT-Vis, SQLite, WebAssembly
+
+2. [**Study Chat**](https://mystudy.chat)\
    Personalised AI chat app for context configuration with RAG, memory, web search, source filtering and modular classification\
    [Open source Repo](https://github.com/sharan1303/study-chat-app) --> *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
-
-3. [**Notion Plus**](#)  
+   
+3. [**Notion Plus**](#)
    AI enhanced document editor with local LLM integration\
    *Technologies*: TypeScript, Next.JS, Vercel AI SDK, LM Studio
 
-4. [**Privacy Search**](#)  
+4. [**Privacy Search**](#) 
    PrivacySearch: Built a search engine from scratch with web-crawling, page-ranking and providing ‘AI Overview’ responses
 using local LLM integration\
    *Technologies*: TypeScript, Next.JS, Python, LM Studio
@@ -123,5 +125,7 @@ I enjoy giving back to the community by introducing young children to AI fundame
 
 ## 📫 Let's Connect!
 I'm always excited to collaborate on innovative projects or discuss new ideas. Feel free to reach out:
-- 📧 Email: sharan.umavassee@gmail.com
-- 💼 LinkedIn: [Sharan Umavassee](https://www.linkedin.com/in/sharan-umavassee/)
+
+[![Email](https://img.shields.io/badge/sharan.umavassee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
+<a href="https://www.linkedin.com/in/sharan-umavassee/"><img src="https://custom-icon-badges.demolab.com/badge/sharan%20umavassee-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
+<a href="https://twitter.com/um_sharan"><img src="https://img.shields.io/badge/um_sharan-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white"></a>
