@@ -94,17 +94,16 @@ Here are some of the projects I'm most proud of:
    Personalised AI chat app for context configuration with RAG, memory, web search, source filtering and modular classification\
    [Open source Repo](https://github.com/sharan1303/study-chat-app) --> *Technologies*: TypeScript, Next.js, PostgreSQL, Vercel AI SDK
    
-3. [**Notion Plus**](#)
-   AI enhanced document editor with local LLM integration\
-   *Technologies*: TypeScript, Next.JS, Vercel AI SDK, LM Studio
-
+3. [**Creative Automation Pipeline - Open Source Repo**](https://github.com/sharan1303/creative-ai)\
+   Image Generation Automation Pipeline for marketing campaigns using OpenAI image models and Gemini Nano Banana\
+   *Technologies*: Python, FastAPI, Pydantic, Celery, Redis, SQLite, OpenAI/Google Gemini, Pillow, Docker, FastAPI-MCP
+   
 4. [**Privacy Search**](#) 
-   PrivacySearch: Built a search engine from scratch with web-crawling, page-ranking and providing ‘AI Overview’ responses
-using local LLM integration\
+   PrivacySearch: Built a search engine from scratch with web-crawling, page-ranking and providing ‘AI Overview’ responses using local LLM integration\
    *Technologies*: TypeScript, Next.JS, Python, LM Studio
 
-5. [**Low cost Embedded Computer Vision Navigation System**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
-   BSc Thesis: A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
+5. [**Low cost Embedded Computer Vision Navigation System for Raspberry Pi**](https://github.com/sharan1303/raspberrypi-computer-vision-navigation-system)  
+   University Bachelor Thesis: A low-cost navigation system for robots using open source computer vision on a raspberry pi.  \
    *Technologies*: Python, OpenCV, Raspberry Pi
 
 
