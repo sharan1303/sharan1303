@@ -29,41 +29,60 @@ I'm a **Fullstack Software developer based in London, UK**, specialised in build
 ## 🛠️ Tech Stack
 Here are the tools and technologies I work with:
 
-
-### **Core Technologies**
-![Python](https://skillicons.dev/icons?i=py)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300FFFF.svg?style=for-the-badge&logo=fastapi&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
 
 ### **AI Stack**
-OpenAI SDK, LangChain, LangGraph, Vercel AI SDK, AutoGen, NVIDIA NIM, Azure AI Foundry
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+[![Azure AI Foundry](https://custom-icon-badges.demolab.com/badge/Azure%20AI%20Foundry-0089D6?style=for-the-badge&logo=azure-ai-foundry-logo&logoColor=white)](#)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Mastra AI](https://img.shields.io/badge/Mastra AI-%23000000.svg?style=for-the-badge&logo=mastra-ai&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)](#)
+![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-%23000000.svg?style=for-the-badge)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-%2300B14F.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### **Machine Learning, Computer Vision & NLP Stack**
-PyTorch, TensorFlow, SciPy, Scikit-learn, OpenCV, NLTK, DeepStream SDK
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230000FF.svg?style=for-the-badge&logo=scipy&logoColor=white)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23000000.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![DeepStream SDK](https://img.shields.io/badge/DeepStream%20SDK-%2300B14F.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### **Databases**
-![Database](https://skillicons.dev/icons?i=postgresql,mongodb)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%230F80CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%235A1AC2.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Vector Stores**
-Chroma, Azure AI Search, pgvector
-
+![Chroma](https://img.shields.io/badge/Chroma-%23000000.svg?style=for-the-badge&logo=chromadb&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Cloud, Deployment and Other tools**
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Azure](https://skillicons.dev/icons?i=azure)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ## 🚀 Featured Projects
