@@ -1,25 +1,23 @@
 # Hi 👋, I'm Sharan!
 
-I'm a **Fullstack Software developer based in London, UK**, specialised in building AI-driven solutions. Welcome to my GitHub profile! 
+I'm a **Fullstack Software Engineer based in London, UK**, specialised in building AI-driven solutions. Welcome to my GitHub profile! 
 
 [![Email](https://img.shields.io/badge/sharan.umavassee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.umavassee@gmail.com)
 <a href="https://www.linkedin.com/in/sharan-umavassee/"><img src="https://custom-icon-badges.demolab.com/badge/sharan%20umavassee-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
 <a href="https://twitter.com/um_sharan"><img src="https://img.shields.io/badge/um_sharan-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white"></a>
 
-## 👾 About Me
-- 💼🧑🏾‍💻 I work as a Senior Technology Consultant / Software Engineer @ *EY* \
-  `Working on AI-centric products, multi-agent systems and RAG knowledge bases.`
-  
-- 🎓 **Education**: BSc (Hons) in Computer Science from the University of Southampton \
-  *Focusing on Artificial Intelligence*: `including Machine Learning, Computer Vision and Natural Language Processing`
-  
-- 🌍 I speak English, French and Mauritian Creole.
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+## ⬆ About me and w𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
-- Working on fast paced prototyping for AI applications for enterprise to test theories
-- Learning system design and product taste.
+- I'm currently working as a Senior Technology Consultant / Software Engineer @ EY
+- I like building AI products, mostly around knowledge bases but recently around media, multimodality, diffusion
+and image/video generation
+- I'm very much a fail fast kind of guy - i do a lot of fast prototyping for enterprises
+
+- I'm currently learning system design and product taste.
+- I have a BSc in Computer Science from the University of Southampton, specialised in AI
+(Machine Learning, Computer Vision, Natural Language Processing)
+
+- I speak English, French and Mauritian Creole
 - I train in Muay Thai when my screen time is down.
 ```
 
@@ -41,7 +39,7 @@ Here are the tools and technologies I work with:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
 
-### **AI Stack**
+### **AI LLM Stack**
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 [![Azure AI Foundry](https://custom-icon-badges.demolab.com/badge/Azure%20AI%20Foundry-0089D6?style=for-the-badge&logo=azure-ai-foundry-logo&logoColor=white)](#)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -69,7 +67,7 @@ Here are the tools and technologies I work with:
 ![Prisma](https://img.shields.io/badge/prisma-%235A1AC2.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Vector Stores**
+#### **Vector Stores**
 ![Chroma](https://img.shields.io/badge/Chroma-%23000000.svg?style=for-the-badge&logo=chromadb&logoColor=white)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)](#)
 ![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
